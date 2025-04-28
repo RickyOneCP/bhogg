@@ -6,7 +6,7 @@
       "id": "8ab63bbte04eettd003cb22bb8f5hcdt7",
       "romtype": "official",
       "size": 591816294,
-      "url": "https://www.dropbox.com/scl/fi/t3qss5yc0977rrbe2cnc3/ota-package.zip?rlkey=fp0igkwlysgli6r4faynr91x2&e=1&st=rdl18frm&dl=1",
+      "url": "https://github.com/RickyOneCP/bhogg/releases/download/bho/ota-package.zip",
       "version": "2.1.1",
       "is_incremental": true
     }
