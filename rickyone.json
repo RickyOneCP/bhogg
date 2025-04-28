@@ -5,9 +5,9 @@
       "filename": "ota-package.zip",
       "id": "8ab63bbte04eettd003cb22bb8f5hcdt7",
       "romtype": "official",
-      "size": 520900000,
+      "size": 591816294,
       "url": "https://example.com/ota-package.zip",
-      "version": "rickyoneos-v2.1.1"
+      "version": "2.1.1"
     }
   ]
 }
