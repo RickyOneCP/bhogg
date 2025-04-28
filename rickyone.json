@@ -6,8 +6,8 @@
       "id": "8ab63bbte04eettd003cb22bb8f5hcdt7",
       "romtype": "official",
       "size": 591816294,
-      "url": "github.com/RickyOneCP/bhogg/releases/download/bho/lineage_s3ve3gxx-ota-eng.gabriel10.zip",
-      "version": "2.1.1",
+      "url": "github.com/RickyOneCP/bhogg/releases/download/bho/ota-package.zip",
+      "version": "2.1.0",
       "is_incremental": true
     }
   ]
