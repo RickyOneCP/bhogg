@@ -8,7 +8,7 @@
       "size": 591816294,
       "url": "github.com/RickyOneCP/bhogg/releases/download/bho/ota-package.zip",
       "version": "2.1.1",
-      "is_incremental": true
+      "is_incremental": false
     }
   ]
 }
