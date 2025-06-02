@@ -12,7 +12,7 @@
       "device": "star2lte",
       "version": "2.2.2-T",
       "blocked": false,
-      "is_incremental": true
+      "is_incremental": false
     }
   ]
 }
