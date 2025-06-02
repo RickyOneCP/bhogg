@@ -14,3 +14,21 @@
     }
   ]
 }
+
+{
+  "response": [
+    {
+      "datetime": 1748868817,
+      "filename": "ota-package-s3ve3gxx.zip",
+      "id": "8ab63bbte04eettd003cb22fb5f5hcgt6",
+      "romtype": "official",
+      "size": 802000000,
+      "url": "https://github.com/RickyOneCP/bhogg/releases/download/RickyOneOS/ota-package-s3ve3gxx.zip",
+      "version": "2.2.1-T",
+      "changelog": "Questo update sistema qualche bug.",
+      "sha256": "608cd54f513e0b18226df51f3b9e9f09960cd3a96569ce228e2d434a442d0abc",
+      "is_incremental": true
+    }
+  ]
+}
+
