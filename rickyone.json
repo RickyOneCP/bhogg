@@ -9,7 +9,7 @@
       "url": "https://github.com/RickyOneCP/bhogg/releases/download/bho/ota-package.zip",
       "version": "2.2.1",
       "android_version": "13",
-      "changelog": "Questo update sistema qualche bug",
+      "changelog": "Questo update sistema qualche bug.",
       "is_incremental": true
     }
   ]
