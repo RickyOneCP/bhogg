@@ -8,6 +8,7 @@
       "size": 882271846,
       "url": "https://github.com/RickyOneCP/bhogg/releases/download/bho/ota-package.zip",
       "version": "2.2.1",
+      "android_version": "13",
       "is_incremental": true
     }
   ]
