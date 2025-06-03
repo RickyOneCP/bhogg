@@ -13,12 +13,7 @@
       "version": "2.2.2-T",
       "blocked": false,
       "is_incremental": false
-    }
-  ]
-}
-
-{
-  "response": [
+    },
     {
       "datetime": 1748868817,
       "filename": "ota-package-star2lte.zip",
