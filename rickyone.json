@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 174888161,
+      "datetime": 1749297771,
       "filename": "ota-package-star2lte.zip",
       "id": "RickyOneOS_2.2.2_T_20250601_star2lte",
       "romtype": "official",
-      "size": 802000000,
+      "size": 763890000,
       "url": "https://github.com/RickyOneCP/bhogg/releases/download/RickyOneOS/ota-package-star2lte.zip",
       "changelog": "Questo update sistema qualche bug.",
-      "sha256": "608cd54f513e0b18226df51f3b9e9f09960cd3a96569ce228e2d434a442d0abc",
+      "sha256": "22b11948abc1c53f2eec2082c6cdc117ba2be75ad7a391900e8ea3957d363bc6",
       "device": "star2lte",
       "version": "2.2.2-T",
       "blocked": false,
