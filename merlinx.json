@@ -4,7 +4,7 @@
       "datetime": 1850160481,
       "filename": "ota-package-merlinx.zip",
       "id": "RickyOneOS_3.0.0_T_20250617_merlinx",
-      "romtype": "official",
+      "romtype": "BETA1",
       "size": 800890000,
       "url": "",
       "changelog": "Questo update sistema qualche bug.",
