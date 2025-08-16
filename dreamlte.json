@@ -1,7 +1,7 @@
 {
   "response": [
     {
-      "datetime": 1855688800,
+      "datetime": 1755688800,
       "filename": "ota-package-dreamlte.zip",
       "id": "RickyOneOS_3.0.0_T_20250816_dreamlte",
       "romtype": "OFFICIAL",
@@ -10,7 +10,7 @@
       "changelog": "Questo update sistema qualche bug.",
       "sha256": "939b7ee1b0bea96bb6bc81c5b3b20273865bc4bc0564232ad122816784aed67a",
       "device": "dreamlte",
-      "version": "3.0.1-T",
+      "version": "3.0.0-T",
       "blocked": false,
       "is_incremental": false
     }
