@@ -6,7 +6,7 @@
       "id": "RickyOneOS_3.0.0_T_20250816_dreamlte",
       "romtype": "OFFICIAL",
       "size": 713000000,
-      "url": "https://github.com/RickyOneOS/RickyOneOS-OTA/releases/download/RickyOneOS-v2.3.0/ota-package-star2lte.zip",
+      "url": "https://github.com/RickyOneOS/RickyOneOS-OTA/releases/download/RickyOneOS-V3.0.0-t/ota-package-dreamlte.zip",
       "changelog": "Questo update sistema qualche bug.",
       "sha256": "939b7ee1b0bea96bb6bc81c5b3b20273865bc4bc0564232ad122816784aed67a",
       "device": "dreamlte",
