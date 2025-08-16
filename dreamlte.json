@@ -10,7 +10,7 @@
       "changelog": "Questo update sistema qualche bug.",
       "sha256": "939b7ee1b0bea96bb6bc81c5b3b20273865bc4bc0564232ad122816784aed67a",
       "device": "dreamlte",
-      "version": "3.0.0-T",
+      "version": "3.0.1-T",
       "blocked": false,
       "is_incremental": false
     }
