@@ -10,7 +10,7 @@
       "changelog": "Questo update sistema qualche bug.",
       "sha256": "f46d1b7cc337d142143d425804b409c97df500d3103e535b338fb979dce271a1",
       "device": "star2lte",
-      "version": "3.0.0-T",
+      "version": "3.0.1-T",
       "blocked": false,
       "is_incremental": false
     }
