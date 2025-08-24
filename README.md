@@ -1,2 +1,2 @@
 this repository is where you can download
-the build for RickyOneOS
+the build of RickyOneOS on supported device
