@@ -6,7 +6,7 @@
       "id": "RickyOneOS_3.0.1_T_20250821_star2lte",
       "romtype": "official",
       "size": 763000000,
-      "url": "https://github.com/RickyOneOS/RickyOneOS-OTA/releases/download/RickyOneOS-V3.0.1-t/ota-package-star2lte.zip",
+      "url": "https://github.com/RickyOneOS/RickyOneOS-OTA/releases/download/RickyOneOS-3.0.1/ota-package-star2lte.zip",
       "changelog": "Questo update sistema qualche bug.",
       "sha256": "f46d1b7cc337d142143d425804b409c97df500d3103e535b338fb979dce271a1",
       "device": "star2lte",
