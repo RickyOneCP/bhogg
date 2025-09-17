@@ -1,16 +1,16 @@
 {
   "response": [
     {
-      "datetime": 1755688800,
+      "datetime": 1758076700,
       "filename": "ota-package-miatoll.zip",
-      "id": "RickyOneOS_3.0.1_T_20250816_miatoll",
+      "id": "RickyOneOS_3.1.0_T_20250816_miatoll",
       "romtype": "official",
-      "size": 900890000,
-      "url": "https://github.com/RickyOneOS/RickyOneOS-OTA/releases/download/RickyOneOS-v2.3.0/ota-package-star2lte.zip",
+      "size": 1030000000,
+      "url": "https://github.com/RickyOneOS/RickyOneOS-OTA/releases/download/RickyOneOS-3.1.0/ota-package-miatoll.zip",
       "changelog": "Questo update sistema qualche bug.",
-      "sha256": "ef5ded55ba4fbb26afba4e8092d12b08169f8bb5349838824e1ba3687892cbbd",
+      "sha256": "ef5ded55ba4fbb26afba4e8092d12b0816f6hbb534986844e1ba368h892cbbd",
       "device": "miatoll",
-      "version": "3.0.1-T",
+      "version": "3.1.0-T",
       "blocked": false,
       "is_incremental": false
     }
