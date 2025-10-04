@@ -1,16 +1,16 @@
 {
   "response": [
     {
-      "datetime": 1758076700,
+      "datetime": "1759387338",
       "filename": "ota-package-miatoll.zip",
-      "id": "RickyOneOS_3.1.0_T_20250917_miatoll",
+      "id": "RickyOneOS_3.2.0_T_20251001_miatoll",
       "romtype": "official",
       "size": 1100000000,
-      "url": "https://github.com/RickyOneOS/RickyOneOS-OTA/releases/download/RickyOneOS-3.1.0/ota-package-miatoll.zip",
+      "url": "https://github.com/RickyOneOS/RickyOneOS-OTA/releases/download/RickyOneOS-3.2.0/ota-package-miatoll.zip",
       "changelog": "Questo update sistema qualche bug.",
-      "sha256": "ef5ded55ba4fbb26afba4e8092d12b0816f6hbb534986844e1ba368h892cbbd",
+      "sha256": "ef5ded55ba4fbb26afba4e80vl3p2b0816f6hbb534986844e1ba368h892cbbd",
       "device": "miatoll",
-      "version": "3.1.0-T",
+      "version": "3.2.0-T",
       "blocked": false,
       "is_incremental": false
     }
