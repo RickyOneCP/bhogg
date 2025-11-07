@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1759278783",
+      "datetime": "1762503770",
       "filename": "ota-package-dreamlte.zip",
-      "id": "cb61fe1b66080a639adfa6185nh2ie8425ws1f6dc0ed3gy788eaaa0ab5531969",
+      "id": "ib61fe1b66080a639adfa61854am7e8425ws1f6dc0ed3gy788eaaa0ab5531969",
       "romtype": "OFFICIAL",
       "size": "728760192",
-      "url": "https://github.com/RickyOneOS/RickyOneOS-OTA/releases/download/RickyOneOS-3.2.0/ota-package-dreamlte.zip",
-      "version": "3.2.0-T"
+      "url": "https://github.com/RickyOneOS/RickyOneOS-OTA/releases/download/RickyOneOS-3.3.0/ota-package-dreamlte.zip",
+      "version": "3.3.0-T"
     }
   ]
 }
